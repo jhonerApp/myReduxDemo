@@ -1,13 +1,12 @@
+import React, { Component } from 'react'
 
-
-import React from 'react'
-
-export default function sample() {
-    console.log('Testing');
-    return (
-        <div>
-            
-        </div>
-    )
+export default class sample extends Component {
+    render() {
+        return (
+            <div>
+                
+            </div>
+        )
+    }
 }
 
