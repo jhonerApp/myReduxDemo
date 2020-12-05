@@ -24,5 +24,4 @@ yarn-error.log*
 
 #/test git command
 *.orig
-
-*.md
+!readme.md
