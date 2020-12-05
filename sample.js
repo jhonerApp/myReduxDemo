@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
 import {connect} from 'redux'
+
 export default class sample extends Component {
     constructor(){
         super();
         // eslint-disable-next-line no-labels
         state:{
-            
+            data:{}
         }
     }
     render() {
